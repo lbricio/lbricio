@@ -4,3 +4,4 @@
 - learning **web development**
 - trainning for **code contests** at https://leetcode.com/kirowhisky/
 - interested in **graphics**, **unix**, **algorithms** and **scientifc programming**
+- sometimes game designer ✌️
