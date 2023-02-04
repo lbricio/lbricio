@@ -4,4 +4,4 @@
 - aprendendo GO e treinando para competições de algoritimos no CodinGame e Leetcode/;
 - aprendendo e introduzindo no dia a dia: **TDD**, **refactoring** e **design patterns**;
 - estou lendo: **compilers: principles, techniques and tools**;
-- tenho alguns aninhos de experiência em desenvolvimento de jogos;
+- tenho alguns anos de experiência em desenvolvimento de jogos;
