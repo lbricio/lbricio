@@ -1,7 +1,6 @@
 ### Olá 👋
 
-- no momento estou trabalhando no projeto **webserv** (fazendo um servidor HTTP do zero usando C++);
-- aprendendo e introduzindo no dia a dia: **TDD**, **refactoring** e **design patterns**;
+- no momento estou trabalhando no projeto **webserv** (fazendo meu próprio servidor HTTP do zero usando C++);
 - estou lendo: **compilers: principles, techniques and tools**;
-- tenho alguns anos de experiência em desenvolvimento de jogos;
-- atualmente no top 1% no CodinGame e 10% no LeetCode;
+- atualmente trabalhando na indústria de jogos e tenho alguns anos de experiência criando meus próprios jogos;
+- gosto de programação competitiva e atualmente no top 1% no CodinGame e 10% no LeetCode;
