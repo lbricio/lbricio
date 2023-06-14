@@ -5,4 +5,4 @@
 - reading 'Compilers: Principles, Techniques, and Tools';
 - competitive programming lover;
 
-Skills: C++, Python, C, Django, PostgreSQL, Linux, Jenkins, CI/CD, CLI, Shell Script, CMake, Makefile, Math;
+Skills: C++, Python, C, Django, PostgreSQL, Linux, Jenkins, CI/CD, CLI, Shell Script, CMake, Makefile, Docker, Math;
